@@ -1,6 +1,8 @@
 # Consultório Médico
 Sistema feito em HTML, CSS, Bootstrap v5.3, Javascript e PHP
-## Funcionamento
+## Funcionamento Web
+- Acesse o link: https://ferreiraluizga.github.io/consultorioMedico/
+## Funcionamento Local
 - Baixe o repositório ou clone em sua máquina
 - Utilize o XAMPP (inicialize o servidor Apache)
 - Na URL do seu navegador digite: localhost/_nome_da_pasta_do_repositório
